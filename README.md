@@ -32,7 +32,7 @@ The notebook installs some dependencies using Colab commands; additional environ
 
 The project notebook has four collaborators: **Chiara Bosi, Ludovica Tapparo, Vatsalya Arora and Emily Jenks**. 
 
-**Chiara Bosi's documented contributions** include:
+**My documented contributions** include:
 - Dataset integrity checks, image-resolution analysis and train/validation/test splitting.
 - Reproducibility configuration, data augmentation and helper functions for the shallow CNN experimental pipeline.
 - Loading ResNet18 checkpoints and configurations, final evaluation and confusion-matrix reporting.
