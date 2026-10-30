@@ -1,0 +1,11 @@
+Data/
+Data.zip
+fixed_data/
+*.pth
+*.pt
+*.ckpt
+*.zip
+__pycache__/
+.ipynb_checkpoints/
+.env
+*.json
